@@ -1,0 +1,9 @@
+item,value,unit,role
+model_type,agent-based simulation,description,represents synthetic residents and facilities
+routine_cycle,24-hour daily cycle,description,morning commute/work-lunch-evening-return-night
+mobility_model,grid Manhattan movement,description,simplified urban transport
+congestion_model,cell occupancy pressure,description,local density as congestion proxy
+wellbeing_model,satisfaction minus fatigue plus access,description,conceptual life-quality proxy
+policy_counterfactuals,station/park/remote-work/mixed-use,description,compare causal urban interventions
+privacy,synthetic agents only,description,no real personal data
+scope,educational digital twin,description,not a real policy forecast
