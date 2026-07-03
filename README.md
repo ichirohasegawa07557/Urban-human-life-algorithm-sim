@@ -84,15 +84,3 @@ python scripts/run_urban_life_sim.py
 ```bash
 python scripts/run_counterfactuals.py
 ```
-
-## Streamlit app
-
-```bash
-streamlit run app.py
-```
-
-## Suggested GitHub repository name
-
-```text
-urban-human-life-algorithm-sim
-```
